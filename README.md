@@ -1,8 +1,5 @@
 # My GPT — Built from Scratch
 
-Every file in this project is code I wrote and submitted while completing the NeetCode ML course.
-The problems progressively build from gradient descent fundamentals all the way to a working GPT.
-
 ## Project Structure
 
 ```
